@@ -7,4 +7,4 @@ SemanticRescue is a fault-tolerant semantic routing system that detects Edge or 
 - Aliyeh Haghollahi — Developer
 - Tapajit Chandra Paul — Developer
 ## Trello Board
-Trello Board: [https://trello.com/invite/b/6ab54a9301a7ccc6f4a3ae1e/ATTI1df188730a88d3c6b774c4eda6449c93A0F35CC0/hpceagles7-🚀](https://trello.com/b/PzmFPhiB/hpceagles7-%F0%9F%9A%80)
+Trello Board: [[https://trello.com/invite/b/6ab54a9301a7ccc6f4a3ae1e/ATTI1df188730a88d3c6b774c4eda6449c93A0F35CC0/hpceagles7-🚀](https://trello.com/b/PzmFPhiB/hpceagles7-%F0%9F%9A%80)](https://trello.com/b/PzmFPhiB/hpceagles7-%F0%9F%9A%80)
